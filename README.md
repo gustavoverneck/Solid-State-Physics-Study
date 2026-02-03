@@ -50,6 +50,7 @@ This repository contains a collection of Python scripts for solving quantum mech
 Dependencies required:
 ```bash
 pip install numpy scipy matplotlib
+```
 
 ## 📝 Units & Constants
 
