@@ -1,6 +1,6 @@
 # Quantum Mechanics Solvers: From Schrödinger to Dirac
 
-This repository contains a collection of Python scripts for solving quantum mechanical systems, progressing from basic non-relativistic 1D problems to advanced relativistic radial simulations.
+This repository contains a collection of Python scripts for solving quantum mechanical systems, progressing from basic 1D problems to relativistic radial simulations.
 
 ## 📂 File Overview
 
